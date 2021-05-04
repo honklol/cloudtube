@@ -1,2 +1,2 @@
 # CloudTube - Say no to censorship.
-Frondend of CloudTube. 
+Front-end of CloudTube. 
